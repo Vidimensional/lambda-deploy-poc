@@ -1,2 +1,2 @@
 def handler(event, context): 
-    return {'key': 'value2'}
+    return {'version': '6'}

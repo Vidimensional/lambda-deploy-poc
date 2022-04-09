@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    key    = "lamdatest_s3"
+    key    = "lambdatest_shared"
     bucket = "vidimensional-terraform"
     region = "eu-west-3"
   }
